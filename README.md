@@ -1,0 +1,1 @@
+In this project I will be making a grid that interacts with your mouse cursor to reinforce any javascript/jquery I have recently learned.
