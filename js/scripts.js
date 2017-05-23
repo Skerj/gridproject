@@ -4,4 +4,7 @@ $(document).ready(function () {
 	for (var a=0; a<c; a++) {
 		$('#container').append("<div class='box'></div>")
 	}
+	$('.box').on('mouseenter', function() {
+			$(this).addClass('hover');
+	});
 });

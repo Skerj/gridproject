@@ -4,8 +4,8 @@ html {
 
 #container {
 	margin: auto;
-	width: 960px;
-	height: 960px;
+	width: 860px;
+	height: 860px;
 }
 
 .grid {
@@ -14,8 +14,12 @@ html {
 
 .box {
 	display: inline-block;
-	background-color: blue;
+	background-color: #c6e9ff;
 	height: 40px;
 	width: 40px;
 	margin: 3px;
+}
+
+.hover {
+	background-color: #135e8c;
 }
