@@ -27,9 +27,7 @@ button, form {
 .box {
 	display: inline-block;
 	background-color: black;
-	height: 6.25%;
-	width: 6.25%;
-	margin: 3px;
+	margin: 0px;
 }
 
 .hover {
