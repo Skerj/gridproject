@@ -8,3 +8,7 @@ $(document).ready(function () {
 			$(this).addClass('hover');
 	});
 });
+
+$('#clearall').on('click', function () {
+
+});
