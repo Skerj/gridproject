@@ -2,7 +2,8 @@ html {
 	font-family: helvetica, sans-serif;
 }
 
-.container {
+#container {
+	margin: auto;
 	width: 960px;
 	height: 960px;
 }
@@ -11,7 +12,7 @@ html {
 	text-align: center;
 }
 
-.gridelement {
+.box {
 	display: inline-block;
 	background-color: blue;
 	height: 40px;
